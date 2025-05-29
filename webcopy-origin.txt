@@ -1,0 +1,188 @@
+Uri: https://cdn.useproof.com/proof.js?acc=m6Jvi68zHKYnoE9Nx6qvLbMl9tZ2
+File Name: C:\Downloaded Web Sites\genius.space\proof.js
+Content Type: application/javascript
+
+Uri: https://genius.space/graphic-designer/webinar/howto/?utm_source=genius_space&utm_medium=mainpage&utm_campaign=upcoming_events
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\index.htm
+Content Type: text/html
+
+Uri: https://genius.space/graphic-designer/webinar/howto/css/libs.min.css
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\css\libs.min.css
+Content Type: text/css
+
+Uri: https://genius.space/graphic-designer/webinar/howto/css/main.css
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\css\main.css
+Content Type: text/css
+
+Uri: https://genius.space/graphic-designer/webinar/howto/css/slick.css
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\css\slick.css
+Content Type: text/css
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Black.eot
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Black.eot?
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Black.ttf
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Black.woff
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Black.woff
+Content Type: application/font-woff
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Bold.eot
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Bold.eot?
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Bold.ttf
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Bold.woff
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-ExtraBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-ExtraBold.woff
+Content Type: application/font-woff
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Heavy.eot
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Heavy.eot?
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Heavy-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Heavy.ttf
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Heavy.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Heavy.woff
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Medium.eot
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Medium.eot?
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Medium.ttf
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Medium.woff
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Regular.eot
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Regular.eot?
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Regular.ttf
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-Regular.woff
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-SemiBold.eot
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-SemiBold.eot?
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-SemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://genius.space/graphic-designer/webinar/howto/fonts/Gilroy/Gilroy-SemiBold.woff
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\fonts\Gilroy\Gilroy-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://genius.space/graphic-designer/webinar/howto/img/flags.png
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\img\flags.png
+Content Type: image/png
+
+Uri: https://genius.space/graphic-designer/webinar/howto/img/form__decor1.svg
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\img\form__decor1.svg
+Content Type: image/svg+xml
+
+Uri: https://genius.space/graphic-designer/webinar/howto/img/form__decor2.svg
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\img\form__decor2.svg
+Content Type: image/svg+xml
+
+Uri: https://genius.space/graphic-designer/webinar/howto/img/form__gift.png
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\img\form__gift.png
+Content Type: image/png
+
+Uri: https://genius.space/graphic-designer/webinar/howto/img/header__logo.svg
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\img\header__logo.svg
+Content Type: image/svg+xml
+
+Uri: https://genius.space/graphic-designer/webinar/howto/img/loading.svg
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\img\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://genius.space/graphic-designer/webinar/howto/js/libs.min.js
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://genius.space/graphic-designer/webinar/howto/js/main.js
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\js\main.js
+Content Type: application/javascript
+
+Uri: https://genius.space/graphic-designer/webinar/howto/js/modernizr-custom.js
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\js\modernizr-custom.js
+Content Type: application/javascript
+
+Uri: https://genius.space/graphic-designer/webinar/howto/js/slick.min.js
+File Name: C:\Downloaded Web Sites\genius.space\graphic-designer\webinar\howto\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://genius.space/img/logo-footer.svg
+File Name: C:\Downloaded Web Sites\genius.space\img\logo-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://genius.space/sitemap_index.xml
+File Name: C:\Downloaded Web Sites\genius.space\sitemap_index.xml
+Content Type: text/xml
+
+Uri: https://genius.space/zoho/zohoNewDealAsyncShort.js
+File Name: C:\Downloaded Web Sites\genius.space\zoho\zohoNewDealAsyncShort.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=428839838922214&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\genius.space\tr
+Content Type: text/plain
+
